@@ -1,0 +1,2 @@
+- Add option for graphs to change the Value-Type for the Order_By Option
+  * Actual is hardcoded to parseint
